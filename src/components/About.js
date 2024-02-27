@@ -14,8 +14,9 @@ const About = () => {
         </div>
 
         <p className="text-xl text-left mt-5">
-          Step into the world of possibilities! I'm Vivek Raut,
-          <br /> A Graduate (2022) from Savitribai Phule Pune University
+          Step into the world of possibilities! I'm Nishant Sahu,
+          <br /> A Graduate (2019) from Career College Bhopal (Barkatullah
+          University, Bhopal).
         </p>
         <p className="text-xl text-left mt-10">
           A Frontend Developer, With a wealth of experience, Delivering Visually
